@@ -1,4 +1,4 @@
-@earning-points
+@earning-points @FLIG-6
 Feature: Earning Frequent Flyer points from flights
   In order to encourage travellers to book with Flying High Airlines more frequently
   As the Flying High sales manager

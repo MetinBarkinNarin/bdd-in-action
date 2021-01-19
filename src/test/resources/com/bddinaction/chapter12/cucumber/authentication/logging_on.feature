@@ -7,15 +7,15 @@ Feature: Logging on to the 'My Flying High' web site
   Background:
     Given Joe is a Frequent Flyer member
     And Joe has registered online with a password of 'secret'
-
+  @FLIG-7
   Scenario: Logging on successfully
     When Joe logs on with password 'secret'
     Then he should be given access to the site
-
+  @FLIG-8
   Scenario: Logging on with an incorrect password
     When Joe logs on with password 'wrong'
     Then he should be informed that his password was incorrect
-
+  @FLIG-9
   Scenario: Logging on with an expired account
     Given the account has expired
     When Joe logs on with password 'wrong'

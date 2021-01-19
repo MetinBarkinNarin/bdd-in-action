@@ -1,4 +1,4 @@
-@transferring-points
+@transferring-points @FLIG-1
 Feature: Transfer points to other members
 
   Background:

@@ -1,4 +1,4 @@
-@earning-points
+@earning-points @FLIG-5
 Feature: Earning extra points from Frequent Flyer status
   Scenario Outline: Earning points on flights by Frequent Flyer status
     Given I am a <status> Frequent Flyer member

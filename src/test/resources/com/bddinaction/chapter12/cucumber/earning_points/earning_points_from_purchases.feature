@@ -1,4 +1,4 @@
-@earning-points
+@earning-points @FLIG-4
 Feature: Earning Frequent Flyer points from purchases
 In order to encourage travellers to book with Flying High Airlines more frequently
 As the Flying High sales manager
